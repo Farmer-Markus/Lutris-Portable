@@ -1,7 +1,9 @@
 # Lutris-Portable <br />
-Lutris official websites:
-[official github](https://github.com/lutris/lutris)
-[official website](https://lutris.net/)
+Lutris official websites: <br />
+[official github](https://github.com/lutris/lutris) <br />
+[official website](https://lutris.net/) <br />
 
-I want to make portable apps with all includet dependencies like: 
-[ATLauncher-Portable](https://github.com/Farmer-Markus/ATLauncher-Portable)
+All portable Apps are based on [dwarfs](https://github.com/mhx/dwarfs), to compress their runners and use less disc space. <br />
+
+I want to make portable apps with all includet dependencies like: <br />
+[ATLauncher-Portable](https://github.com/Farmer-Markus/ATLauncher-Portable) <br />
