@@ -1,4 +1,4 @@
-# Lutris-Portable <br />
+# Lutris Portable <br />
 Lutris official websites: <br />
 [official github](https://github.com/lutris/lutris) <br />
 [official website](https://lutris.net/) <br />
